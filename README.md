@@ -25,7 +25,7 @@ If you don't have `easy_install` in your python enviroment to, please install `e
 
 - ` pip isntall matplotlib `
 
-####how to convet images
+####how to convert images
 
 If you don't have ` imagemagick ` in your homebrew enviroment, first `brew install imagemagick`  
 
