@@ -25,5 +25,15 @@ If you don't have `easy_install` in your python enviroment to, please install `e
 
 - ` pip isntall matplotlib `
 
+####how to convet images
+
+If you don't have ` imagemagick ` in your homebrew enviroment, first `brew install imagemagick`  
+
+- `convert -geometry [横ピクセル]x[縦ピクセル] [変換する.JPG] [変換後.PNG]`  
+  
+横縦比をを変えて変換んする場合は  
+
+- `convert -geometry [横ピクセル]x[縦ピクセル]! [変換する.JPG] [変換後.PNG]`
+
 
 ########README CHECKE AT `http://markdownlivepreview.com`
