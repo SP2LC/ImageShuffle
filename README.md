@@ -31,7 +31,7 @@ If you don't have ` imagemagick ` in your homebrew enviroment, first `brew insta
 
 - `convert -geometry [横ピクセル]x[縦ピクセル] [変換する.JPG] [変換後.PNG]`  
   
-横縦比をを変えて変換んする場合は  
+横縦比をを変えて変換する場合は  
 
 - `convert -geometry [横ピクセル]x[縦ピクセル]! [変換する.JPG] [変換後.PNG]`
 
